@@ -1,0 +1,6 @@
+E:\bitm c\DateTestApp\DateTestApp\bin\DateTestApp.dll.config
+E:\bitm c\DateTestApp\DateTestApp\bin\DateTestApp.dll
+E:\bitm c\DateTestApp\DateTestApp\bin\DateTestApp.pdb
+E:\bitm c\DateTestApp\DateTestApp\obj\Debug\DateTestApp.csprojResolveAssemblyReference.cache
+E:\bitm c\DateTestApp\DateTestApp\obj\Debug\DateTestApp.dll
+E:\bitm c\DateTestApp\DateTestApp\obj\Debug\DateTestApp.pdb
